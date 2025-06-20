@@ -1,0 +1,1 @@
+export { FunctionAppComponent, FunctionAppArgs } from './functionApp';

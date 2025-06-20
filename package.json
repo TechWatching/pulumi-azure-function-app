@@ -1,0 +1,13 @@
+{
+  "name": "function-app-component",
+  "description": "Azure Function App Component",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "@pulumi/azure-native": "^3.5.1",
+    "@pulumi/pulumi": "^3.178.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
+  }
+}

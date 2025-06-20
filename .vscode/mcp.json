@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "pulumi": {
+      "command": "pnpx",
+      "args": ["@pulumi/mcp-server@latest","stdio"]
+    }
+  }
+}
